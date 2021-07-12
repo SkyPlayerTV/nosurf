@@ -1,3 +1,3 @@
-module github.com/skyplayertv/nosurf
+module github.com/SkyPlayerTV/nosurf
 
 go 1.12
